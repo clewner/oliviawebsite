@@ -5,16 +5,16 @@
 }
 
 :root {
-  --cream: #faf8f5;
-  --warm-white: #fffdfb;
-  --forest: #2d4a3e;
-  --forest-light: #3d6a54;
-  --terracotta: #c4775a;
-  --terracotta-light: #e39d7c;
-  --sage: #a8b5a0;
+  --cream: #f0f7fa;
+  --warm-white: #f8fbfd;
+  --forest: #4a90b8;
+  --forest-light: #6aabe0;
+  --terracotta: #e6b800;
+  --terracotta-light: #ffd940;
+  --sage: #a0c4d4;
   --text: #2c2c2c;
   --text-light: #666;
-  --accent: #e8c4a0;
+  --accent: #fff3b0;
 }
 
 html {
